@@ -1,0 +1,1 @@
+food's recipes website is a static website to practice contain the basics of tailwind css class
